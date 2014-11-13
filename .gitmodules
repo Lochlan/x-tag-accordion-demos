@@ -1,0 +1,6 @@
+[submodule "accordion"]
+	path = accordion
+	url = https://github.com/x-tag/accordion
+[submodule "dig-accordion"]
+	path = dig-accordion
+	url = https://github.com/dailyinsight/accordion
